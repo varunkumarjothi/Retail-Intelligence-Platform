@@ -1,6 +1,10 @@
 # Retail Intelligence Platform
 
-A production-grade, multi-module Python application that processes retail sales data through an automated ETL pipeline, generates business KPIs via SQL, forecasts future revenue using ensemble Machine Learning, exposes all data through a REST API, and produces automated Excel + chart reports.
+An end-to-end retail analytics platform with automated ETL pipeline, advanced SQL KPI queries, ensemble ML forecasting (R²=0.887), 10-endpoint Flask REST API, RFM customer segmentation and automated Excel reports with charts.
+
+## Live Dashboard
+View the interactive Tableau dashboard:
+https://public.tableau.com/app/profile/varun.kumar.jothi/viz/RetailIntelligencePlatform/Dashboard2
 
 ## Architecture
 ```
@@ -58,4 +62,5 @@ python tests/test_etl.py
 | POST /api/query | Ad-hoc SQL query |
 
 ## Skills Demonstrated
-Python · ETL · SQLite · SQL · Feature Engineering · Ensemble ML · Flask REST API · Data Validation · Unit Testing · Automated Reporting
+Python · ETL · SQLite · SQL · Feature Engineering · Ensemble ML · Flask REST API · Data Validation · Unit Testing · Automated Reporting · Tableau
+```
