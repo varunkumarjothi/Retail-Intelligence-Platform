@@ -4,7 +4,7 @@ An end-to-end retail analytics platform with automated ETL pipeline, advanced SQ
 
 ## Live Dashboard
 View the interactive Tableau dashboard:
-https://public.tableau.com/app/profile/varun.kumar.jothi/viz/RetailIntelligencePlatform/Dashboard2
+https://public.tableau.com/app/profile/varun.kumar.jothi/viz/RetailIntelligencePlatform/RetailIntelligenceDashboard
 
 ## Architecture
 ```
