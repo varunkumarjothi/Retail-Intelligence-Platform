@@ -96,7 +96,7 @@ The full code is on GitHub:
 **https://github.com/varunkumarjothi/Retail-Intelligence-Platform**
 
 The Tableau dashboard is live:
-**https://public.tableau.com/app/profile/varun.kumar.jothi/viz/RetailIntelligencePlatform/Dashboard2**
+**https://public.tableau.com/app/profile/varun.kumar.jothi/viz/RetailIntelligencePlatform/RetailIntelligenceDashboard**
 
 ---
 
